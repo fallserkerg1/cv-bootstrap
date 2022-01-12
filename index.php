@@ -50,7 +50,7 @@
           <h1>Yoshua Soto | Desarrollador Web</h1>
           <br>
           <p class="h5">Me llamo Yoshua Soto, soy Desarrollador Web y Programador BackEnd creativo e innovador, autodidacta, 
-          entusiasta con las grandes ideas y avances del mundo tecnologíco, seguidor de los E-sports y las Criptomonedas, 
+          entusiasta con las grandes ideas y avances del mundo tecnológico, seguidor de los E-sports y las Criptomonedas, 
           conoce más sobre mi.</p>
           <hr>
           <a href="#contact" class="btn btn-primary btn-lg" id="btn1">Contactame</a>
