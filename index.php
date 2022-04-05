@@ -86,7 +86,7 @@
                   yoshuasoto54@gmail.com</p>
               </div>
               <div class="col-md-6 p-5">
-                <a href="pdf/yoshua-soto-2022.pdf" class="btn btn-outline-secondary btn-lg">Descarga mi CV</a>
+                <a href="pdf/yoshua-soto-2022-Analista.pdf" class="btn btn-outline-secondary btn-lg">Descarga mi CV</a>
               </div>
             </div>
         </div>
