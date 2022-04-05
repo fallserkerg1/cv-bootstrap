@@ -47,12 +47,19 @@
     <div class="container">
       <div class="row">
         <div class="cont">
-          <h1>Soto Yoshua | Desarrollador Web y Analista de Mercados Bursátiles </h1>
+          <h1>Soto Yoshua | Analista de Sistemas y Mercados Bursátiles </h1>
           <br>
-          <p class="h5">Me llamo Yoshua Soto, soy Desarrollador Web y Programador BackEnd, me especializo como Analísta de Sistemas y habilidad en 
-            desarrollo en los Mercados Bursátiles, lee mi web para saber más sobre mi.
+          <p class="h5">Soy un joven Analista de Sistemas,
+            con más de 5 años de experiencia en
+            el campo del IT, tengo conocimientos
+            de programación en los lenguajes de
+            Python y PHP. Actualmente me
+            desempeño Analista de Mercados
+            Bursátiles, participo en los mercados
+            de FOREX y Criptomonedas de
+            Bitcoin, Solana y Tron.
           </p>
-          <hr>
+          <hr style="background: white;">
           <a href="#contact" class="btn btn-primary btn-lg" id="btn1">Contactame</a>
           <i class="fab fa-twitter"></i>
         </div>
@@ -64,7 +71,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6" id="photo-main">
-          <img src="img/photo2.jpg" alt="" height="400" class="p-5">
+          <img src="img/photo2.jpg" alt="" height="600" class="p-5">
         </div>
         <div class="col-md-6 p-3" id="profil-main">
           <h1>Sobre mi</h1>
