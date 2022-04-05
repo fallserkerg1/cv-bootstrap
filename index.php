@@ -64,7 +64,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6" id="photo-main">
-          <img src="img/photo.jpg" alt="" height="400" class="p-5">
+          <img src="img/photo2.jpg" alt="" height="400" class="p-5">
         </div>
         <div class="col-md-6 p-3" id="profil-main">
           <h1>Sobre mi</h1>
