@@ -32,7 +32,7 @@
               <a class="nav-link" href="#about">Sobre Mi</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#divisor">Informática</a>
+              <a class="nav-link" href="#divisor_1">Informática</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#divisor_2">Trading</a>
@@ -109,7 +109,7 @@
     </div>
   </section>
     <!--DIVISOR INFORMÁTICA-->
-  <div class="container-fluid" id="divisor">
+  <div class="container-fluid" id="divisor_1">
       <h1 class="h1" style="padding: 20px;">Carrera Informática</h1>
   </div>
   <!--EDUCATION INF-->
