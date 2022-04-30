@@ -1,6 +1,6 @@
 /* HEADER */
 #header {
-    background-image: url(../img/back3.jpg);
+    background-image: url(../img/back4.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     margin: auto;
@@ -15,9 +15,21 @@
 }
 
 #btn1 {
-    width: 200px;
-    height: 50px;
+    background: rgb(4,32,36);
+    background: linear-gradient(0deg, rgba(4,32,36,1) 12%, rgba(12,210,26,1) 87%);
+    color: white;
+    font-size: 20px;
+    padding: 20px 100px;
+    border-radius: 20px;
+    text-decoration: none;
 }
+
+#btn1:hover{
+    background: rgb(23,29,30);
+    background: linear-gradient(0deg, rgba(23,29,30,1) 2%, rgba(210,12,12,1) 87%);
+    color: white;
+}
+
 
 /* ABOUT */
 
